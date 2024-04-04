@@ -6,3 +6,4 @@ In this DSA journey i'll be following striver's SDE sheet and i am making this f
 Here are the List of problems :-
 
 1. Set Matrix zeroes
+2. Pascal Triangle
